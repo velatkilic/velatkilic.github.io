@@ -5,7 +5,16 @@
     <link>https://velatkilic.github.io/</link>
     <description>Recent content on Velat Kilic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Apr 2023 11:52:19 -0400</lastBuildDate><atom:link href="https://velatkilic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 10:31:54 -0400</lastBuildDate><atom:link href="https://velatkilic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Label GUI</title>
+      <link>https://velatkilic.github.io/projects/label_gui/</link>
+      <pubDate>Sun, 23 Apr 2023 11:33:42 -0400</pubDate>
+      
+      <guid>https://velatkilic.github.io/projects/label_gui/</guid>
+      <description>Github link: https://github.com/velatkilic/label-gui</description>
+    </item>
+    
     <item>
       <title>Time Lens Photon Doppler Velocimetry (TL-PDV)</title>
       <link>https://velatkilic.github.io/research/tlpdv/</link>
@@ -16,6 +25,16 @@
 Kilic, V., DiMarco, C.S., Diamond, J., Chu, P., Ramesh, K.T., Wang, Z. and Foster, M.A., 2023, March. Experimental demonstration of time lens photon Doppler velocimetry (TL-PDV). In Real-time Measurements, Rogue Phenomena, and Single-Shot Applications VIII (Vol. 12406, pp. 16-19). SPIE.
 Theory:
 Chu, P., Kilic, V., Foster, M.A. and Wang, Z., 2021. Time-lens photon Doppler velocimetry (TL-PDV). Review of Scientific Instruments, 92(4), p.044703.</description>
+    </item>
+    
+    <item>
+      <title>Shack Hartmann Wavefront Sensor GUI</title>
+      <link>https://velatkilic.github.io/projects/shack_hartmann/</link>
+      <pubDate>Mon, 24 Apr 2023 10:31:54 -0400</pubDate>
+      
+      <guid>https://velatkilic.github.io/projects/shack_hartmann/</guid>
+      <description>Github link: https://github.com/velatkilic/Shack-Hartmann-GUI
+This is very much a work in progress!</description>
     </item>
     
     <item>
@@ -62,15 +81,6 @@ Kilic, V. and Foster, M.A., 2021, May. Training photonic extreme learning machin
       <guid>https://velatkilic.github.io/research/two_wave_mixing/</guid>
       <description>Kilic, V. and Lawandy, N.M., 2019. High density colloidal particle flux using modulated nondegenerate counter-propagating optical beams. Optics Communications, 433, pp.155-158.
 Smuk, A.Y., Kilic, V., Umyskov, A. and Lawandy, N.M., 2018. Dynamical studies of non-degenerate two-wave mixing. Optics Communications, 420, pp.211-214.</description>
-    </item>
-    
-    <item>
-      <title>Label GUI</title>
-      <link>https://velatkilic.github.io/projects/label_gui/</link>
-      <pubDate>Sun, 23 Apr 2023 11:33:42 -0400</pubDate>
-      
-      <guid>https://velatkilic.github.io/projects/label_gui/</guid>
-      <description>Github link: https://github.com/velatkilic/label-gui</description>
     </item>
     
   </channel>
